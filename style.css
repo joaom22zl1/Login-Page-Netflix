@@ -1,0 +1,255 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#cabecario #logo {
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 45px;
+}
+
+body {
+    background-image: url(imagens/fundo_netflix.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+main {
+    margin-bottom: 80px;
+    margin-top: 10px;
+}
+#conteudo {
+    background-color: rgba(0, 0, 0, 0.733);
+    width: 400px;
+    height: 560px;
+    margin: 0 auto;
+}
+
+#formulario fieldset {
+    border: 0px;
+    width: 400px;
+    height: 250px;
+    display: block;
+}
+
+#formulario legend {
+    display: none;
+}
+
+#conteudo h1{
+    margin-left: 50px;
+    margin-top: 70px;
+    font-size: 30px;
+}
+
+.email_ou_telefone_input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 50px;
+   margin-bottom: 10px;
+   margin-top: 30px;
+   background-color: rgb(67, 67, 67);
+   border: 0px;
+   padding: 20px;
+   border-radius: 3px;
+}
+
+.senha_input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 50px;
+   margin-bottom: 10px;
+   margin-top: 30px;
+   background-color: rgb(67, 67, 67);
+   border: 0px;
+   padding: 20px;
+   border-radius: 3px;
+}
+
+.bnt_entrar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 50px;
+   margin-bottom: 10px;
+   margin-top: 30px;
+   background-color: red; 
+   color: rgb(255, 255, 255);
+   border: 0px;
+   border-radius: 3px;
+   font-weight: bold;
+   font-size:large;
+}
+
+.lembrar_e_ajuda div{
+    display: inline;
+}
+
+.lembre_se_de_mim {
+    margin-left: 50px;
+    width: 20px;
+}
+
+.label_lembre-se {
+    color: rgb(100, 100, 100);
+}
+
+.link_precisa_de_ajuda {
+    text-decoration: none;
+    margin-left: 50px;
+    font-size: small;
+    color: rgb(100, 100, 100);
+}
+
+.label_lembre-se {
+    font-size: small;
+}
+
+.novo h2 {
+    display: block;
+    color: rgb(100, 100, 100);;
+    font-size: small;
+    margin-left: 50px;
+}
+.assine_agora {
+    text-decoration:none;
+    color:white;
+    display: block;
+    font-size:small;
+    margin-left: 0px;
+} 
+
+.baguidodemonio div{
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.texto_protecao {
+    display: block;
+    font-size: small;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: rgb(100, 100, 100);
+}
+
+.link_saibamais {
+    font-size: small;
+    text-decoration: none;
+    color: rgb(26, 120, 235);
+}
+
+.baguidodemonio2 p{
+    margin-top: 10px;
+    border-spacing: 0px;
+    display: inline-block;
+}
+
+#rodape {
+    background-color:rgba(0, 0, 0, 0.733);
+    height: 200px;
+    padding-top: 20px;
+}
+
+.rodape_contato p{
+    color: rgb(100, 100, 100);
+    margin-bottom: 40px;  
+    position: relative;
+    margin-left: 300px;
+}
+
+.rodape_coisas{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+.rodape_coisas p {
+    display: inline;
+}
+
+.perguntas {
+    margin-left: 300px;
+    color: rgb(100, 100, 100);
+}
+
+.ajuda {
+    margin-left: 100px;
+    color: rgb(100, 100, 100);
+}
+
+.cookies {
+    margin-left: 100px;
+    color: rgb(100, 100, 100);
+}
+
+.ajuda {
+    margin-left: 100px;
+    color: rgb(100, 100, 100);
+}
+
+.termos_de_uso {
+    margin-left: 100px;
+    color: rgb(100, 100, 100);
+}
+
+.privacidade {
+    margin-left: 100px;
+    color: rgb(100, 100, 100);
+}
+
+.cookies_infos {
+    margin-bottom: 20px;
+    color: rgb(100, 100, 100);
+}
+
+.cookies_infos p {
+    display: inline;
+}
+
+.cookies {
+    margin-left: 300px;
+    color: rgb(100, 100, 100);
+}
+
+.infos {
+    margin-left: 76px;
+    color: rgb(100, 100, 100);
+}
+
+#caixa_de_idiomas select {
+    width: 150px;
+    height: 35px;
+    display: block;
+    margin-left: 300px;
+    padding: 10px;
+    background-color:rgb(0, 0, 0);
+    color: white;
+}
+
+#link_original a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
